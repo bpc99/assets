@@ -1,5 +1,0 @@
-echo "test-project" >> README.md　　　# 增加说明(也可以不写)
-git init　　　　　　　　　　　　　　　　　 # 初始化本地仓库
-git add .          　　　　　　　　　　 # 将所在目录下所有文件添加
-git commit -m "first commit"　　　　　 # 加提交注释
-git push -u origin master　　　　　　　# 提交代码至远程仓库    
